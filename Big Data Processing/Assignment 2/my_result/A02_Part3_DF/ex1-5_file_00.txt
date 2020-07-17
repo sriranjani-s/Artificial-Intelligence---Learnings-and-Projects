@@ -1,0 +1,55 @@
+
+-------------------------------------------
+ex1 - file_00
+-------------------------------------------
+
+7191
+
+-------------------------------------------
+ex2 - file_00
+-------------------------------------------
+
+281
+
+-------------------------------------------
+ex3 - file_00
+-------------------------------------------
+
+Row(behind=1211, ahead=99)
+
+-------------------------------------------
+ex4 - file_00
+-------------------------------------------
+
+Row(day_of_week='Wednesday', bus_scheduled_times=['16:01:00', '16:11:00', '16:21:00'])
+Row(day_of_week='Tuesday', bus_scheduled_times=['16:01:00', '16:11:00', '16:21:00'])
+Row(day_of_week='Friday', bus_scheduled_times=['16:01:00', '16:11:00', '16:21:00'])
+Row(day_of_week='Thursday', bus_scheduled_times=['16:01:00', '16:11:00', '16:21:00'])
+Row(day_of_week='Saturday', bus_scheduled_times=['16:01:00', '16:11:00', '16:21:00'])
+Row(day_of_week='Monday', bus_scheduled_times=['16:01:00', '16:11:00', '16:21:00'])
+Row(day_of_week='Sunday', bus_scheduled_times=['16:11:00', '16:31:00'])
+
+-------------------------------------------
+ex5 - file_00
+-------------------------------------------
+
+Row(new_date='Tuesday 11', average_time=319.52)
+Row(new_date='Thursday 09', average_time=368.25)
+Row(new_date='Friday 09', average_time=370.36842105263156)
+Row(new_date='Wednesday 11', average_time=378.16)
+Row(new_date='Friday 11', average_time=385.3157894736842)
+Row(new_date='Tuesday 10', average_time=387.6)
+Row(new_date='Wednesday 09', average_time=433.6842105263158)
+Row(new_date='Wednesday 10', average_time=493.15)
+Row(new_date='Tuesday 09', average_time=498.0)
+Row(new_date='Monday 10', average_time=499.15)
+Row(new_date='Thursday 10', average_time=500.7894736842105)
+Row(new_date='Thursday 11', average_time=511.45)
+Row(new_date='Saturday 10', average_time=524.9166666666666)
+Row(new_date='Friday 10', average_time=548.95)
+Row(new_date='Saturday 11', average_time=572.8)
+Row(new_date='Monday 11', average_time=649.85)
+Row(new_date='Monday 09', average_time=681.578947368421)
+Row(new_date='Saturday 09', average_time=816.25)
+
+

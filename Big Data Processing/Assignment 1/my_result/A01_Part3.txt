@@ -1,0 +1,92 @@
+
+-----------------
+Exercise 1: 
+-----------------
+
+1339200
+
+-----------------
+Exercise 2: 
+-----------------
+
+31 
+
+-----------------
+Exercise 3: 
+-----------------
+
+Row(name='Bandfield')
+Row(name='Peace Park')
+Row(name='South Mall')
+Row(name="Fitzgerald's Park")
+Row(name="St. Fin Barre's Bridge")
+Row(name='South Main St.')
+Row(name='Emmet Place')
+Row(name='Cork City Hall')
+Row(name='College of Commerce')
+Row(name="Lapp's Quay")
+Row(name='Lower Glanmire Rd.')
+Row(name='Cork School of Music')
+Row(name='Bus Station')
+Row(name='Brian Boru Bridge')
+Row(name='Kent Station')
+Row(name='Wandesford Quay')
+Row(name='Camden Quay')
+Row(name='Grattan St.')
+Row(name='South Gate Bridge')
+Row(name='North Main St.')
+Row(name='Mercy Hospital')
+Row(name='St. Patricks St.')
+Row(name='Bishop St.')
+Row(name='Grand Parade')
+Row(name='Gaol Walk')
+Row(name='Clontarf Street')
+Row(name='Coburg St.')
+Row(name="Pope's Quay")
+Row(name='Corn Market St.')
+Row(name='Dyke Parade')
+Row(name='Father Mathew Statue')
+
+-----------------
+Exercise 4: 
+-----------------
+
+Row(name='Kent Station', longitude=-8.45821475982666)
+Row(name='Lower Glanmire Rd.', longitude=-8.464118003845215)
+Row(name='Brian Boru Bridge', longitude=-8.465152740478516)
+Row(name='Clontarf Street', longitude=-8.465629577636719)
+Row(name="Lapp's Quay", longitude=-8.46573543548584)
+Row(name='Cork City Hall', longitude=-8.465999603271484)
+Row(name='Bus Station', longitude=-8.466950416564941)
+Row(name='Cork School of Music', longitude=-8.468092918395996)
+Row(name='College of Commerce', longitude=-8.469797134399414)
+Row(name='South Mall', longitude=-8.469900131225586)
+Row(name='Coburg St.', longitude=-8.47056770324707)
+Row(name='Father Mathew Statue', longitude=-8.470627784729004)
+Row(name='St. Patricks St.', longitude=-8.472615242004395)
+Row(name='Emmet Place', longitude=-8.472704887390137)
+Row(name='Camden Quay', longitude=-8.473341941833496)
+Row(name='Peace Park', longitude=-8.473475456237793)
+Row(name='Grand Parade', longitude=-8.475369453430176)
+Row(name='South Gate Bridge', longitude=-8.475865364074707)
+Row(name='South Main St.', longitude=-8.476895332336426)
+Row(name='Corn Market St.', longitude=-8.47700023651123)
+Row(name="Pope's Quay", longitude=-8.477384567260742)
+Row(name='North Main St.', longitude=-8.478440284729004)
+Row(name='Bishop St.', longitude=-8.479026794433594)
+Row(name='Grattan St.', longitude=-8.479779243469238)
+Row(name='Wandesford Quay', longitude=-8.480039596557617)
+Row(name="St. Fin Barre's Bridge", longitude=-8.481961250305176)
+Row(name='Mercy Hospital', longitude=-8.482256889343262)
+Row(name='Dyke Parade', longitude=-8.48458480834961)
+Row(name='Bandfield', longitude=-8.489136695861816)
+Row(name="Fitzgerald's Park", longitude=-8.493412971496582)
+Row(name='Gaol Walk', longitude=-8.494174003601074)
+ 
+-----------------
+Exercise 5: 
+-----------------
+
+Row(name='Kent Station', avg(bikesAvailable)=12.810347222222223)
+
+

@@ -1,0 +1,24 @@
+lab computer 2
+inst-7.tsp
+config 1
+Pop size - 300
+mut - 0.1
+iterations - 500
+
+lab computer 1
+inst-7.tsp
+config 2
+pop - 300
+mut - 0.1
+iter - 500
+
+
+My laptop
+inst-20
+pop - 300
+mut - 0.1
+iter - 500
+config2
+
+
+

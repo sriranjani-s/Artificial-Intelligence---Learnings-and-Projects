@@ -1,0 +1,4 @@
+v1
+{"path":"file:///home/nacho/CIT/Tools/MyCode/Spark/FileStore/tables/7_Assignments/A02/my_result/part-00000-12d1b35b-5f71-4f68-9856-7f702d5ae6e0-c000.csv","size":0,"isDir":false,"modificationTime":1542994460000,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/nacho/CIT/Tools/MyCode/Spark/FileStore/tables/7_Assignments/A02/my_result/part-00117-4327a64d-a088-46a3-a593-47958b31e30a-c000.csv","size":10,"isDir":false,"modificationTime":1542994463000,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/nacho/CIT/Tools/MyCode/Spark/FileStore/tables/7_Assignments/A02/my_result/part-00155-4668036a-44f2-4cda-886c-b2df82c7ed9c-c000.csv","size":11,"isDir":false,"modificationTime":1542994464000,"blockReplication":1,"blockSize":33554432,"action":"add"}

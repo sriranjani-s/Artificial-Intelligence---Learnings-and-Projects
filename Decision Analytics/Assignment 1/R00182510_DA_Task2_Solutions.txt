@@ -1,0 +1,1462 @@
+Solution 1
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 2
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5190
+Gained Profit:  2510
+
+Solution 3
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 4
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 5
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor K', 150)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 6
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 7
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5190
+Gained Profit:  2510
+
+Solution 8
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor K', 150)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 9
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 10
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 11
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5190
+Gained Profit:  2510
+
+Solution 12
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor K', 150)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 13
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor K', 150)
+Overall project value:  7700
+Overall contractor cost:  5190
+Gained Profit:  2510
+
+Solution 14
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor K', 150)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 15
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5190
+Gained Profit:  2510
+
+Solution 16
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5180
+Gained Profit:  2520
+
+Solution 17
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor A', 80)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 18
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor A', 80)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 19
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor K', 140)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 20
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5190
+Gained Profit:  2510
+
+Solution 21
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 22
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor K', 150)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 23
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 24
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor K', 140)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 25
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor J', 150)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 26
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5190
+Gained Profit:  2510
+
+Solution 27
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor K', 150)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 28
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 29
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 30
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 31
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor J', 150)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 32
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor J', 150)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5190
+Gained Profit:  2510
+
+Solution 33
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor J', 150)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 34
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor J', 150)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 35
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor J', 150)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 36
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor J', 150)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 37
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor J', 150)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 38
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor J', 150)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor K', 150)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 39
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 40
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor J', 150)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 41
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor A', 200)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 42
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor B', 290)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor J', 150)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+
+Solution 43
+Projects Taken:  ['Project A', 'Project B', 'Project C', 'Project D', 'Project E', 'Project G', 'Project H', 'Project I']
+Project Assignments:
+Project, Month, Job, Contractor, cost:  ('Project A', 'M1', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M2', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project A', 'M3', 'Job C', 'Contractor K', 150)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M3', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M4', 'Job K', 'Contractor B', 140)
+Project, Month, Job, Contractor, cost:  ('Project B', 'M5', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M4', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M5', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M6', 'Job G', 'Contractor G', 505)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M7', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project C', 'M8', 'Job E', 'Contractor E', 20)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M2', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M3', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M4', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project D', 'M5', 'Job H', 'Contractor H', 120)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M8', 'Job J', 'Contractor C', 190)
+Project, Month, Job, Contractor, cost:  ('Project E', 'M9', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M5', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M6', 'Job M', 'Contractor K', 300)
+Project, Month, Job, Contractor, cost:  ('Project G', 'M7', 'Job E', 'Contractor A', 30)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M8', 'Job A', 'Contractor A', 230)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M9', 'Job B', 'Contractor E', 130)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M10', 'Job D', 'Contractor H', 400)
+Project, Month, Job, Contractor, cost:  ('Project H', 'M11', 'Job I', 'Contractor G', 60)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M10', 'Job L', 'Contractor D', 190)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M11', 'Job F', 'Contractor F', 140)
+Project, Month, Job, Contractor, cost:  ('Project I', 'M12', 'Job K', 'Contractor B', 140)
+Overall project value:  7700
+Overall contractor cost:  5200
+Gained Profit:  2500
+

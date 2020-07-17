@@ -1,0 +1,64 @@
+**********************************   Metaheuristics Assignment 1 Submission - Readme file   **********************************
+
+
+************* Submitted Files
+-> A single zip file containing the following files:
+	- Readme_R00182510.txt file
+	- Source code TSP_R00182510.py
+	- Source code Individual_R00182510.py (The given code is kept as is. No additional changes implemented)
+	- A sample file, Sample_file_R00182510 describing the different experiments that were run on the program and the execution of it.
+
+-> A Report document(PDF) describing the detailed solutions to the Assignment Part 1 and Part 2.
+	Report PDF name : Assignment1Report_R00182510
+
+
+************** Source Code Execution Environment
+-> Execution environment : PyCharm
+-> Python Interpreter: Anaconda Python Interpreter
+
+-> The input files used for the experiments were inst-19.tsp, inst-20.tsp and inst-7.tsp. All the input files were present in the same directory as the source code files.
+
+
+************** Code Execution Instructions
+-> A total of 8 configurations were implemented in a single program as 8 instances of the class TSP.
+
+-> For every executon of the program, the input file, values of population size, mutation rate and Iterations needs to be passed as an input along with the run command for the program. The format is given below.
+
+	python TSP_R00182510.py [filename] [population size] [mutation rate] [number of Iterations]
+
+	Example:
+	python TSP_R00182510.py inst-19.tsp 100 0.1 500
+
+-> A basic evaluation of the 1st two configurations was done by commenting out the code for configuration instances from configuration 3 to configuration 8
+   (Comment lines 469 to 503).
+
+	# To run Configurations 1 and 2 -> uncomment the code between the tags <BASIC>
+	#                               -> comment out the code between tags <EXTENSIVE>
+	
+	<BASIC>
+	Configuration 1 - Random population, Random Selection, Unfiform Crossover, Inversion mutation
+	Configuration 2 - Random population, Random Selection, PMX Crossover, Reciprocal Exchange mutation
+	<BASIC>
+	
+	Both the above configurations should run together to recreate similar results from the report for the basic evaluation.
+
+-> An extensive evaluation of the below 6 configurations was done by commenting out the configuration instances 1 and 2
+   (Comment lines 454 to 464).
+	
+	# To run configurations 3 to 8 -> uncomment the code between tags <EXTENSIVE>
+	#                              -> comment out the code between tags <BASIC>
+
+	<EXTENSIVE>
+	Configuration 3 - Random population, Stochastic Universal sampling, uniform crossover, Reciprocal Exchange mutation
+	Configuration 4 - Random population, Stochastic Universal sampling, PMX Crossover, Reciprocal Exchange mutation
+	Configuration 5 - Random population, Stochastic Universal sampling, PMX Crossover, Inversion mutation
+	Configuration 6 - Random population, Stochastic Universal sampling, Uniform crossover, Inversion mutation
+	Configuration 7 - Heuristic population, Stochastic Universal sampling, PMX crossover, Reciprocal Exchange	
+	Configuration 8 - Heuristic population, Stochastic Universal sampling, Uniform crossover, Inversion mutation
+	<EXTENSIVE>
+
+	All the above 6 configurations should run together to recreate similar results from the report for the Extensive evaluation.
+
+-> For the extensive evaluation, the input values for population size and mutation rate in the run command varies based on the experiment to be performed. Refer report for the experiments performed.
+
+

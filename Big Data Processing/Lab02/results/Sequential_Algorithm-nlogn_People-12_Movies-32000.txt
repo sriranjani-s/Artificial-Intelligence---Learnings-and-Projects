@@ -1,0 +1,24 @@
+
+--------------------
+ FILE RESULTS
+--------------------
+../input_files/file_1.txt --> 0.23044562339782715 seconds, 255479292 inversions
+../input_files/file_10.txt --> 0.2273712158203125 seconds, 257292205 inversions
+../input_files/file_11.txt --> 0.3135659694671631 seconds, 257169797 inversions
+../input_files/file_12.txt --> 0.20578360557556152 seconds, 257686314 inversions
+../input_files/file_2.txt --> 0.17519497871398926 seconds, 254568275 inversions
+../input_files/file_3.txt --> 0.16982102394104004 seconds, 255478834 inversions
+../input_files/file_4.txt --> 0.22077012062072754 seconds, 255943390 inversions
+../input_files/file_5.txt --> 0.18469858169555664 seconds, 255374232 inversions
+../input_files/file_6.txt --> 0.1665186882019043 seconds, 255550710 inversions
+../input_files/file_7.txt --> 0.17538881301879883 seconds, 255757943 inversions
+../input_files/file_8.txt --> 0.20302963256835938 seconds, 255791843 inversions
+../input_files/file_9.txt --> 0.17432832717895508 seconds, 256316353 inversions
+
+--------------------
+ TIMES
+--------------------
+TOTAL TIME = 2.4469165802001953 seconds
+
+CONCURRENCY TIME = 2.4469165802001953 seconds
+Time Core 0 = 2.4469165802001953 seconds

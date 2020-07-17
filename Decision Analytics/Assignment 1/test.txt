@@ -1,0 +1,548 @@
+solution 1
+Student #1 is Lucas
+Student #1 is from Australia
+Student #1 goes to London
+Student #1 studies Architecture
+Student #1 is boy
+Student #2 is Carol
+Student #2 is from South Africa
+Student #2 goes to Cambridge
+Student #2 studies Law
+Student #2 is girl
+Student #3 is Elisa
+Student #3 is from Canada
+Student #3 goes to Oxford
+Student #3 studies Medicine
+Student #3 is girl
+Student #4 is Oliver
+Student #4 is from USA
+Student #4 goes to Edinburgh
+Student #4 studies History
+Student #4 is boy
+
+solution 2
+Student #1 is Lucas
+Student #1 is from Australia
+Student #1 goes to London
+Student #1 studies Architecture
+Student #1 is boy
+Student #2 is Carol
+Student #2 is from South Africa
+Student #2 goes to Cambridge
+Student #2 studies Law
+Student #2 is girl
+Student #3 is Oliver
+Student #3 is from USA
+Student #3 goes to Edinburgh
+Student #3 studies History
+Student #3 is boy
+Student #4 is Elisa
+Student #4 is from Canada
+Student #4 goes to Oxford
+Student #4 studies Medicine
+Student #4 is girl
+solution 3
+Student #1 is Oliver
+Student #1 is from USA
+Student #1 goes to Edinburgh
+Student #1 studies History
+Student #1 is boy
+Student #2 is Carol
+Student #2 is from South Africa
+Student #2 goes to Cambridge
+Student #2 studies Law
+Student #2 is girl
+Student #3 is Lucas
+Student #3 is from Australia
+Student #3 goes to London
+Student #3 studies Architecture
+Student #3 is boy
+Student #4 is Elisa
+Student #4 is from Canada
+Student #4 goes to Oxford
+Student #4 studies Medicine
+Student #4 is girl
+solution 4
+Student #1 is Oliver
+Student #1 is from USA
+Student #1 goes to Edinburgh
+Student #1 studies History
+Student #1 is boy
+Student #2 is Carol
+Student #2 is from South Africa
+Student #2 goes to Cambridge
+Student #2 studies Law
+Student #2 is girl
+Student #3 is Elisa
+Student #3 is from Canada
+Student #3 goes to Oxford
+Student #3 studies Medicine
+Student #3 is girl
+Student #4 is Lucas
+Student #4 is from Australia
+Student #4 goes to London
+Student #4 studies Architecture
+Student #4 is boy
+solution 5
+Student #1 is Oliver
+Student #1 is from USA
+Student #1 goes to Edinburgh
+Student #1 studies History
+Student #1 is boy
+Student #2 is Elisa
+Student #2 is from Canada
+Student #2 goes to Oxford
+Student #2 studies Medicine
+Student #2 is girl
+Student #3 is Carol
+Student #3 is from South Africa
+Student #3 goes to Cambridge
+Student #3 studies Law
+Student #3 is girl
+Student #4 is Lucas
+Student #4 is from Australia
+Student #4 goes to London
+Student #4 studies Architecture
+Student #4 is boy
+solution 6
+Student #1 is Oliver
+Student #1 is from USA
+Student #1 goes to Edinburgh
+Student #1 studies History
+Student #1 is boy
+Student #2 is Lucas
+Student #2 is from Australia
+Student #2 goes to London
+Student #2 studies Architecture
+Student #2 is boy
+Student #3 is Carol
+Student #3 is from South Africa
+Student #3 goes to Cambridge
+Student #3 studies Law
+Student #3 is girl
+Student #4 is Elisa
+Student #4 is from Canada
+Student #4 goes to Oxford
+Student #4 studies Medicine
+Student #4 is girl
+solution 7
+Student #1 is Oliver
+Student #1 is from USA
+Student #1 goes to Edinburgh
+Student #1 studies History
+Student #1 is boy
+Student #2 is Lucas
+Student #2 is from Australia
+Student #2 goes to London
+Student #2 studies Architecture
+Student #2 is boy
+Student #3 is Elisa
+Student #3 is from Canada
+Student #3 goes to Oxford
+Student #3 studies Medicine
+Student #3 is girl
+Student #4 is Carol
+Student #4 is from South Africa
+Student #4 goes to Cambridge
+Student #4 studies Law
+Student #4 is girl
+solution 8
+Student #1 is Oliver
+Student #1 is from USA
+Student #1 goes to Edinburgh
+Student #1 studies History
+Student #1 is boy
+Student #2 is Elisa
+Student #2 is from Canada
+Student #2 goes to Oxford
+Student #2 studies Medicine
+Student #2 is girl
+Student #3 is Lucas
+Student #3 is from Australia
+Student #3 goes to London
+Student #3 studies Architecture
+Student #3 is boy
+Student #4 is Carol
+Student #4 is from South Africa
+Student #4 goes to Cambridge
+Student #4 studies Law
+Student #4 is girl
+solution 9
+Student #1 is Lucas
+Student #1 is from Australia
+Student #1 goes to London
+Student #1 studies Architecture
+Student #1 is boy
+Student #2 is Elisa
+Student #2 is from Canada
+Student #2 goes to Oxford
+Student #2 studies Medicine
+Student #2 is girl
+Student #3 is Oliver
+Student #3 is from USA
+Student #3 goes to Edinburgh
+Student #3 studies History
+Student #3 is boy
+Student #4 is Carol
+Student #4 is from South Africa
+Student #4 goes to Cambridge
+Student #4 studies Law
+Student #4 is girl
+solution 10
+Student #1 is Lucas
+Student #1 is from Australia
+Student #1 goes to London
+Student #1 studies Architecture
+Student #1 is boy
+Student #2 is Elisa
+Student #2 is from Canada
+Student #2 goes to Oxford
+Student #2 studies Medicine
+Student #2 is girl
+Student #3 is Carol
+Student #3 is from South Africa
+Student #3 goes to Cambridge
+Student #3 studies Law
+Student #3 is girl
+Student #4 is Oliver
+Student #4 is from USA
+Student #4 goes to Edinburgh
+Student #4 studies History
+Student #4 is boy
+solution 11
+Student #1 is Elisa
+Student #1 is from Canada
+Student #1 goes to Oxford
+Student #1 studies Medicine
+Student #1 is girl
+Student #2 is Lucas
+Student #2 is from Australia
+Student #2 goes to London
+Student #2 studies Architecture
+Student #2 is boy
+Student #3 is Carol
+Student #3 is from South Africa
+Student #3 goes to Cambridge
+Student #3 studies Law
+Student #3 is girl
+Student #4 is Oliver
+Student #4 is from USA
+Student #4 goes to Edinburgh
+Student #4 studies History
+Student #4 is boy
+solution 12
+Student #1 is Elisa
+Student #1 is from Canada
+Student #1 goes to Oxford
+Student #1 studies Medicine
+Student #1 is girl
+Student #2 is Carol
+Student #2 is from South Africa
+Student #2 goes to Cambridge
+Student #2 studies Law
+Student #2 is girl
+Student #3 is Oliver
+Student #3 is from USA
+Student #3 goes to Edinburgh
+Student #3 studies History
+Student #3 is boy
+Student #4 is Lucas
+Student #4 is from Australia
+Student #4 goes to London
+Student #4 studies Architecture
+Student #4 is boy
+solution 13
+Student #1 is Carol
+Student #1 is from South Africa
+Student #1 goes to Cambridge
+Student #1 studies Law
+Student #1 is girl
+Student #2 is Elisa
+Student #2 is from Canada
+Student #2 goes to Oxford
+Student #2 studies Medicine
+Student #2 is girl
+Student #3 is Oliver
+Student #3 is from USA
+Student #3 goes to Edinburgh
+Student #3 studies History
+Student #3 is boy
+Student #4 is Lucas
+Student #4 is from Australia
+Student #4 goes to London
+Student #4 studies Architecture
+Student #4 is boy
+solution 14
+Student #1 is Carol
+Student #1 is from South Africa
+Student #1 goes to Cambridge
+Student #1 studies Law
+Student #1 is girl
+Student #2 is Elisa
+Student #2 is from Canada
+Student #2 goes to Oxford
+Student #2 studies Medicine
+Student #2 is girl
+Student #3 is Lucas
+Student #3 is from Australia
+Student #3 goes to London
+Student #3 studies Architecture
+Student #3 is boy
+Student #4 is Oliver
+Student #4 is from USA
+Student #4 goes to Edinburgh
+Student #4 studies History
+Student #4 is boy
+solution 15
+Student #1 is Elisa
+Student #1 is from Canada
+Student #1 goes to Oxford
+Student #1 studies Medicine
+Student #1 is girl
+Student #2 is Carol
+Student #2 is from South Africa
+Student #2 goes to Cambridge
+Student #2 studies Law
+Student #2 is girl
+Student #3 is Lucas
+Student #3 is from Australia
+Student #3 goes to London
+Student #3 studies Architecture
+Student #3 is boy
+Student #4 is Oliver
+Student #4 is from USA
+Student #4 goes to Edinburgh
+Student #4 studies History
+Student #4 is boy
+solution 16
+Student #1 is Carol
+Student #1 is from South Africa
+Student #1 goes to Cambridge
+Student #1 studies Law
+Student #1 is girl
+Student #2 is Lucas
+Student #2 is from Australia
+Student #2 goes to London
+Student #2 studies Architecture
+Student #2 is boy
+Student #3 is Elisa
+Student #3 is from Canada
+Student #3 goes to Oxford
+Student #3 studies Medicine
+Student #3 is girl
+Student #4 is Oliver
+Student #4 is from USA
+Student #4 goes to Edinburgh
+Student #4 studies History
+Student #4 is boy
+solution 17
+Student #1 is Carol
+Student #1 is from South Africa
+Student #1 goes to Cambridge
+Student #1 studies Law
+Student #1 is girl
+Student #2 is Oliver
+Student #2 is from USA
+Student #2 goes to Edinburgh
+Student #2 studies History
+Student #2 is boy
+Student #3 is Elisa
+Student #3 is from Canada
+Student #3 goes to Oxford
+Student #3 studies Medicine
+Student #3 is girl
+Student #4 is Lucas
+Student #4 is from Australia
+Student #4 goes to London
+Student #4 studies Architecture
+Student #4 is boy
+solution 18
+Student #1 is Elisa
+Student #1 is from Canada
+Student #1 goes to Oxford
+Student #1 studies Medicine
+Student #1 is girl
+Student #2 is Oliver
+Student #2 is from USA
+Student #2 goes to Edinburgh
+Student #2 studies History
+Student #2 is boy
+Student #3 is Carol
+Student #3 is from South Africa
+Student #3 goes to Cambridge
+Student #3 studies Law
+Student #3 is girl
+Student #4 is Lucas
+Student #4 is from Australia
+Student #4 goes to London
+Student #4 studies Architecture
+Student #4 is boy
+solution 19
+Student #1 is Elisa
+Student #1 is from Canada
+Student #1 goes to Oxford
+Student #1 studies Medicine
+Student #1 is girl
+Student #2 is Oliver
+Student #2 is from USA
+Student #2 goes to Edinburgh
+Student #2 studies History
+Student #2 is boy
+Student #3 is Lucas
+Student #3 is from Australia
+Student #3 goes to London
+Student #3 studies Architecture
+Student #3 is boy
+Student #4 is Carol
+Student #4 is from South Africa
+Student #4 goes to Cambridge
+Student #4 studies Law
+Student #4 is girl
+solution 20
+Student #1 is Carol
+Student #1 is from South Africa
+Student #1 goes to Cambridge
+Student #1 studies Law
+Student #1 is girl
+Student #2 is Oliver
+Student #2 is from USA
+Student #2 goes to Edinburgh
+Student #2 studies History
+Student #2 is boy
+Student #3 is Lucas
+Student #3 is from Australia
+Student #3 goes to London
+Student #3 studies Architecture
+Student #3 is boy
+Student #4 is Elisa
+Student #4 is from Canada
+Student #4 goes to Oxford
+Student #4 studies Medicine
+Student #4 is girl
+solution 21
+Student #1 is Carol
+Student #1 is from South Africa
+Student #1 goes to Cambridge
+Student #1 studies Law
+Student #1 is girl
+Student #2 is Lucas
+Student #2 is from Australia
+Student #2 goes to London
+Student #2 studies Architecture
+Student #2 is boy
+Student #3 is Oliver
+Student #3 is from USA
+Student #3 goes to Edinburgh
+Student #3 studies History
+Student #3 is boy
+Student #4 is Elisa
+Student #4 is from Canada
+Student #4 goes to Oxford
+Student #4 studies Medicine
+Student #4 is girl
+solution 22
+Student #1 is Elisa
+Student #1 is from Canada
+Student #1 goes to Oxford
+Student #1 studies Medicine
+Student #1 is girl
+Student #2 is Lucas
+Student #2 is from Australia
+Student #2 goes to London
+Student #2 studies Architecture
+Student #2 is boy
+Student #3 is Oliver
+Student #3 is from USA
+Student #3 goes to Edinburgh
+Student #3 studies History
+Student #3 is boy
+Student #4 is Carol
+Student #4 is from South Africa
+Student #4 goes to Cambridge
+Student #4 studies Law
+Student #4 is girl
+solution 23
+Student #1 is Lucas
+Student #1 is from Australia
+Student #1 goes to London
+Student #1 studies Architecture
+Student #1 is boy
+Student #2 is Oliver
+Student #2 is from USA
+Student #2 goes to Edinburgh
+Student #2 studies History
+Student #2 is boy
+Student #3 is Carol
+Student #3 is from South Africa
+Student #3 goes to Cambridge
+Student #3 studies Law
+Student #3 is girl
+Student #4 is Elisa
+Student #4 is from Canada
+Student #4 goes to Oxford
+Student #4 studies Medicine
+Student #4 is girl
+solution 24
+Student #1 is Lucas
+Student #1 is from Australia
+Student #1 goes to London
+Student #1 studies Architecture
+Student #1 is boy
+Student #2 is Oliver
+Student #2 is from USA
+Student #2 goes to Edinburgh
+Student #2 studies History
+Student #2 is boy
+Student #3 is Elisa
+Student #3 is from Canada
+Student #3 goes to Oxford
+Student #3 studies Medicine
+Student #3 is girl
+Student #4 is Carol
+Student #4 is from South Africa
+Student #4 goes to Cambridge
+Student #4 studies Law
+Student #4 is girl
+
+
+
+
+
+
+        model.AddBoolOr([student_university[student_i]["Cambridge"],
+                         student_university[student_i]["Edinburgh"]]).OnlyEnforceIf(student_gender[student_i]["girl"])
+
+        model.AddBoolOr([student_university[student_i]["London"],
+                         student_university[student_i]["Oxford"]]).OnlyEnforceIf(student_gender[student_i]["boy"])
+
+        model.AddBoolOr([student_university[student_i]["Cambridge"],
+                         student_university[student_i]["Edinburgh"].Not()]).OnlyEnforceIf(student_name[student_i]["Carol"])
+        model.AddBoolOr([student_university[student_i]["Edinburgh"],
+                         student_university[student_i]["Cambridge"].Not()]).OnlyEnforceIf(student_name[student_i]["Elisa"])
+
+        model.AddBoolOr([student_university[student_i]["London"],
+                         student_university[student_i]["Oxford"].Not()]).OnlyEnforceIf(student_name[student_i]["Lucas"])
+        model.AddBoolOr([student_university[student_i]["Oxford"],
+                         student_university[student_i]["London"].Not()]).OnlyEnforceIf(student_name[student_i]["Oliver"])
+
+
+
+
+
+other = [value for j, value in enumerate(students) if j != i]
+        for j in range(len(other)):
+            model.AddBoolAnd([student_university[student_i]["Cambridge"],
+                              student_name[other[j]]['Elisa'].Not(),
+                              student_university[other[j]]["Edinburgh"]]).OnlyEnforceIf(student_name[student_i]["Carol"])
+
+            model.AddBoolAnd([student_university[student_i]["Edinburgh"],
+                              student_name[other[j]]['Carol'].Not(),
+                              student_university[other[j]]["Cambridge"]]).OnlyEnforceIf(student_name[student_i]["Elisa"])
+
+            model.AddBoolAnd([student_university[student_i]["London"],
+                              student_name[other[j]]['Oliver'].Not(),
+                              student_university[other[j]]["Oxford"]]).OnlyEnforceIf(student_name[student_i]["Lucas"])
+
+            model.AddBoolAnd([student_university[student_i]["Oxford"],
+                              student_name[other[j]]['Lucas'].Not(),
+                              student_university[other[j]]["London"]]).OnlyEnforceIf(student_name[student_i]["Oliver"])

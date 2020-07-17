@@ -1,0 +1,93 @@
+
+-----------------
+Exercise 1: 
+-----------------
+
+1339200
+
+-----------------
+Exercise 2: 
+-----------------
+
+31 
+
+-----------------
+Exercise 3: 
+-----------------
+
+North Main 
+St. Coburg 
+St. Fitzgerald's Park 
+Camden Quay 
+Father Mathew Statue 
+College of Commerce 
+South Mall 
+Wandesford Quay 
+South Gate Bridge 
+St. Fin Barre's Bridge 
+Emmet Place 
+Brian Boru Bridge 
+Lapp's Quay 
+Dyke Parade 
+South Main St. 
+Bandfield 
+St. Patricks St. 
+Gaol Walk 
+Corn Market St. 
+Peace Park 
+Clontarf Street 
+Cork School of Music 
+Mercy Hospital 
+Bishop St. 
+Pope's Quay 
+Grattan St. 
+Cork City Hall 
+Kent Station 
+Grand Parade 
+Lower Glanmire Rd. 
+Bus Station
+
+-----------------
+Exercise 4: 
+-----------------
+
+('Kent Station', -8.45821512) 
+('Lower Glanmire Rd.', -8.46411816)
+ ('Brian Boru Bridge', -8.465153) 
+ ('Clontarf Street', -8.46562933177544) 
+ ("Lapp's Quay", -8.465735) 
+ ('Cork City Hall', -8.466) 
+ ('Bus Station', -8.46695074) 
+ ('Cork School of Music', -8.46809252166047) 
+ ('College of Commerce', -8.469797) 
+ ('South Mall', -8.46989982762231) 
+ ('Coburg St.', -8.47056736) 
+ ('Father Mathew Statue', -8.4706278) 
+ ('St. Patricks St.', -8.47261531)
+ ('Emmet Place', -8.47270466388061) 
+ ('Camden Quay', -8.473342) 
+ ('Peace Park', -8.47347588279142) 
+ ('Grand Parade', -8.47536977381303) 
+ ('South Gate Bridge', -8.47586514429047) 
+ ('South Main St.', -8.47689553164735) 
+ 'Corn Market St.', -8.477) 
+ ("Pope's Quay", -8.477385) 
+ ('North Main St.', -8.47844005) 
+ ('Bishop St.', -8.4790268) 
+ ('Grattan St.', -8.47977966) 
+ ('Wandesford Quay', -8.48004) 
+ ("St. Fin Barre's Bridge", -8.48196155) 
+ ('Mercy Hospital', -8.48225676) 
+ ('Dyke Parade', -8.48458467) 
+ ('Bandfield', -8.4891363) 
+ ("Fitzgerald's Park", -8.49341266) 
+ ('Gaol Walk', -8.494174)
+ 
+-----------------
+Exercise 5: 
+-----------------
+
+TotalSum = 553407 
+TotalItems = 43200 
+AverageValue = 12.810347222222223
+
