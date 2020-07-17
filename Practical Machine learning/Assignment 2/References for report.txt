@@ -1,0 +1,11 @@
+[5] https://link.springer.com/article/10.1007/s10462-007-9052-3
+			OR
+[5] https://www.cs.bham.ac.uk/~pxt/IDA/class_rev.pdf
+[6] https://stats.stackexchange.com/questions/31066/what-is-the-influence-of-c-in-svms-with-linear-kernel
+[7] https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+[8] https://machinelearningmastery.com/tune-learning-rate-for-gradient-boosting-with-xgboost-in-python/
+[9] https://www.researchgate.net/publication/301856754_Feature_Selection_A_Data_Perspective
+[10] https://stackabuse.com/applying-filter-methods-in-python-for-feature-selection/
+[11] https://bib.irb.hr/datoteka/763354.MIPRO_2015_JovicBrkicBogunovic.pdf
+[12] https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/
+[13] https://dkopczyk.quantee.co.uk/feature-selection/
