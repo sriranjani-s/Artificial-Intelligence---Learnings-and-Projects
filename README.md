@@ -1,1 +1,1 @@
-# Artificial-Intelligence---Learnings-and-Projects
+# Artificial-Intelligence-Learnings-and-Projects
